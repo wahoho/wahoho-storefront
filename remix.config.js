@@ -1,4 +1,4 @@
-/** @type {import('@remix-run/cloudflare').AppConfig} */
+/** @type {import('@remix-run/dev').AppConfig} */
 module.exports = {
   appDirectory: 'app',
   ignoredRouteFiles: ['**/.*'],
